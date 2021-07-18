@@ -17,3 +17,4 @@ A página deve conter um menu de navegação e as páginas respectivas de:
 Colaboradores:
 
 [Gabriel Silva](https://github.com/gabriel-oxx)
+Thiago  Negrini(https://github.com/ThiagoNegrini/gama-no-github)
